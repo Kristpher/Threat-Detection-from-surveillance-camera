@@ -6,7 +6,6 @@ This project combines **CMeRT** and **YOLO-based TTC (Time-To-Collision)** estim
 - YOLO is used for object tracking and TTC estimation
 - A fusion model combines both outputs for improved threat detection
 
-GitHub Repository: https://github.com/Kristpher/Threat-Detection-from-surveillance-camera
 
 Base CMeRT Repository: https://github.com/pangzhan27/CMeRT
 
